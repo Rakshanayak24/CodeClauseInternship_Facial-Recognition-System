@@ -1,4 +1,4 @@
-# OpenCV Face Detection System (No dlib)
+# OpenCV Face Detection System
 
 ## How to Run
 1. Install dependencies:
